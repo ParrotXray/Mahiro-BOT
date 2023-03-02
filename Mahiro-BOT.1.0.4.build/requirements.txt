@@ -1,0 +1,11 @@
+py-cord
+pythonping 
+requests
+https://github.com/ParrotXray/MahiroBot-youtube-dl/archive/refs/heads/master.zip
+ffmpeg
+PyNaCl
+fake_useragent
+opencc-python-reimplemented
+aiofiles
+pixivpy3
+openai
